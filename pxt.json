@@ -1,0 +1,27 @@
+{
+    "name": "mobveb",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Turtle Logo": "github:mr-coxall/turtle-logo#v1.0.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.7.24",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
